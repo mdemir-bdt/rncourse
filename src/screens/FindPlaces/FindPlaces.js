@@ -4,7 +4,7 @@ class FindPlaceScreen extends Component {
   render() {
     return (
       <View>
-        <Text>On FindPlaceScreen</Text>
+        <Text>Owner Transactions History</Text>
       </View>
     );
   }

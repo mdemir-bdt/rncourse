@@ -4,7 +4,7 @@ class SharePlaceScreen extends Component {
   render() {
     return (
       <View>
-        <Text>On SharePlaceScreen</Text>
+        <Text>Asset Distribution</Text>
       </View>
     );
   }
